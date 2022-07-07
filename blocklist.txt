@@ -7,9 +7,15 @@ upload.crashes.rbxinfra.net
 crashes.roblox.com
 upload.crashes.roblox.com
 client-telemetry.roblox.com
+client-telemetry.api.roblox.com
 metrics.roblox.com
+metrics.api.roblox.com
 studio-ecsv2.roblox.com
 ecsv2.roblox.com
+studio-ecsv2.api.roblox.com
+ecsv2.api.roblox.com
 ephemeralcounters.api.roblox.com
+ephemeralcounters.roblox.com
 tracing.roblox.com
+tracing.api.roblox.com
 35.155.141.13
