@@ -1,7 +1,11 @@
-upload.crashes.rbxinfra.com
+crashes.rbx.com
+upload.crashes.rbx.com
 crashes.rbxinfra.com
-upload.crashes.roblox.com
+upload.crashes.rbxinfra.com
+crashes.rbxinfra.net
+upload.crashes.rbxinfra.net
 crashes.roblox.com
+upload.crashes.roblox.com
 client-telemetry.roblox.com
 metrics.roblox.com
 studio-ecsv2.roblox.com
