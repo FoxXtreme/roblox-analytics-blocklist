@@ -1,0 +1,11 @@
+upload.crashes.rbxinfra.com
+crashes.rbxinfra.com
+upload.crashes.roblox.com
+crashes.roblox.com
+client-telemetry.roblox.com
+metrics.roblox.com
+studio-ecsv2.roblox.com
+ecsv2.roblox.com
+ephemeralcounters.api.roblox.com
+tracing.roblox.com
+35.155.141.13
