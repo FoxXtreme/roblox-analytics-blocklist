@@ -14,6 +14,9 @@ studio-ecsv2.roblox.com
 ecsv2.roblox.com
 studio-ecsv2.api.roblox.com
 ecsv2.api.roblox.com
+test.public.ecs.roblox.com
+public.ecs.roblox.com
+ecs.roblox.com
 ephemeralcounters.api.roblox.com
 ephemeralcounters.roblox.com
 tracing.roblox.com
