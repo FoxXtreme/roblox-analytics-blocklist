@@ -27,3 +27,4 @@
 ||ads.api.roblox.com^$important
 ||35.155.141.13$important
 ||35.155.141.13^$important
+||www.google-analytics.com^$important
