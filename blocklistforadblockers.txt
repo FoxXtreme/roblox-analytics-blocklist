@@ -18,5 +18,9 @@
 ||ephemeralcounters.roblox.com^$important
 ||tracing.roblox.com^$important
 ||tracing.api.roblox.com^$important
+||ncs.roblox.com^$important
+||ncs.api.roblox.com^$important
+||ads.roblox.com^$important
+||ads.api.roblox.com^$important
 ||35.155.141.13$important
 ||35.155.141.13^$important
