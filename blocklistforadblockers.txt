@@ -16,6 +16,9 @@
 ||ecsv2.api.roblox.com^$important
 ||ephemeralcounters.api.roblox.com^$important
 ||ephemeralcounters.roblox.com^$important
+||test.public.ecs.roblox.com^$important
+||public.ecs.roblox.com^$important
+||ecs.roblox.com^$important
 ||tracing.roblox.com^$important
 ||tracing.api.roblox.com^$important
 ||ncs.roblox.com^$important
