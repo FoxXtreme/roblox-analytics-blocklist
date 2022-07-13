@@ -18,4 +18,8 @@ ephemeralcounters.api.roblox.com
 ephemeralcounters.roblox.com
 tracing.roblox.com
 tracing.api.roblox.com
+ncs.roblox.com
+ncs.api.roblox.com
+ads.roblox.com
+ads.api.roblox.com
 35.155.141.13
