@@ -28,3 +28,5 @@ ads.api.roblox.com
 35.155.141.13
 www.google-analytics.com
 100.20.191.133
+lightstep.com
+www.lightstep.com
