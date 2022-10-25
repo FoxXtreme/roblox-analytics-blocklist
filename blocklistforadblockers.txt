@@ -13,7 +13,13 @@
 ||studio-ecsv2.roblox.com^$important
 ||ecsv2.roblox.com^$important
 ||studio-ecsv2.api.roblox.com^$important
+||ecs.roblox.com^$important
+||public.ecs.roblox.com^$important
+||test.public.ecs.roblox.com^$important
 ||ecsv2.api.roblox.com^$important
+||locale.roblox.com^$important
+||abtesting.roblox.com^$important
+||lms.roblox.com^$important
 ||ephemeralcounters.api.roblox.com^$important
 ||ephemeralcounters.roblox.com^$important
 ||test.public.ecs.roblox.com^$important
