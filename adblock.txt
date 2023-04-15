@@ -14,6 +14,7 @@
 ||metrics.roblox.com^$important
 ||cs.ns1p.net^$important
 ||analytics.roblox.com^$important
+||corp-metrics.rbx.com^$important
 #Block Latency Measurement Service Endpoints
 ||lms.roblox.com^$important
 ||sea1-128-116-115-3.roblox.com^$important
