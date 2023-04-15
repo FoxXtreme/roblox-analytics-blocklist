@@ -48,8 +48,8 @@
 ||fra2-128-116-123-3.roblox.com^$important
 ||lhr2-128-116-119-3.roblox.com^$important
 ||lga1-128-116-126-3.roblox.com^$important
-|dfw1-128-116-95-3.roblox.com^$important
-|lhr1-128-116-119-3.roblox.com^$important
+||dfw1-128-116-95-3.roblox.com^$important
+||lhr1-128-116-119-3.roblox.com^$important
 ||waw1-128-116-124-3.roblox.com^$important
 ||fra1-128-116-123-3.roblox.com^$important
 ||aws-us-west-2b-lms.rbx.com^$important
