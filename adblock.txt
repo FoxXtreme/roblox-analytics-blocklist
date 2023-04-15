@@ -20,6 +20,9 @@
 ||aws-us-east-1c-lms.rbx.com^$important
 ||aws-us-east-2a-lms.rbx.com^$important
 ||aws-us-east-2b-lms.rbx.com^$important
+||c0ak.rbxcdn.com^$important
+||c0cfly.rbxcdn.com^$important
+||c0hw.rbxcdn.com^$important
 ||cdg1-128-116-122-3.roblox.com^$important
 ||fra2-128-116-123-3.roblox.com^$important
 ||hkg1-128-116-118-3.roblox.com^$important
