@@ -5,6 +5,7 @@
 ||crashes-prod.rbx.com^$important
 ||backtrace.rbx.com^$important
 ||crashes.rbx.com^$important
+||crashes.rbxinfra.com^$important
 #Block Ephemeral Counters Service Endpoints
 ||ephemeralcounters.api.roblox.com^$important
 ||studio-ecsv2.roblox.com^$important
