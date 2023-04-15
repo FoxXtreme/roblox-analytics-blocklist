@@ -1,6 +1,9 @@
 #Block Ephemeral Counters Service Test Endpoint
 ||ecs.roblox.com^$important
 #Block Backtrace Crash Telemetry Endpoint
+||crashes.roblox.com^$important
+||crashes-prod.rbx.com^$important
+||backtrace.rbx.com^$important
 ||crashes.rbx.com^$important
 #Block Ephemeral Counters Service Endpoints
 ||ephemeralcounters.api.roblox.com^$important
@@ -10,6 +13,7 @@
 ||client-telemetry.roblox.com^$important
 ||metrics.roblox.com^$important
 ||cs.ns1p.net^$important
+||analytics.roblox.com^$important
 #Block Latency Measurement Service Endpoints
 ||lms.roblox.com^$important
 ||sea1-128-116-115-3.roblox.com^$important
@@ -31,6 +35,7 @@
 ||iad3-128-116-102-3.roblox.com^$important
 ||aws-ap-northeast-1c-lms.rbx.com^$important
 ||c0ak.rbxcdn.com^$important
+||chi1-128-116-112-44.roblox.com^$important
 ||mia3-128-116-127-3.roblox.com^$important
 ||dfw2-128-116-95-3.roblox.com^$important
 ||ord1-128-116-101-3.roblox.com^$important
@@ -66,7 +71,9 @@
 ||nrt1-128-116-120-3.roblox.com^$important
 ||aws-eu-west-2a-lms.rbx.com^$important
 ||aws-ap-east-1a-lms.rbx.com^$important
+||nrt2-128-116-120-3.roblox.com^$important
 ||c0hw.rbxcdn.com^$important
+||chi1-origin.roblox.com^$important
 ||aws-ap-northeast-1d-lms.rbx.com^$important
 ||aws-eu-west-2c-lms.rbx.com^$important
 ||aws-us-west-2c-lms.rbx.com^$important
