@@ -6,10 +6,10 @@
 ||ephemeralcounters.api.roblox.com^$important
 ||studio-ecsv2.roblox.com^$important
 ||ecsv2.roblox.com^$important
-#Block Client Telemetry Endpoint
+#Block Client & Web Telemetry Endpoints
 ||client-telemetry.roblox.com^$important
-#Block Client & Web Telemetry Endpoint
 ||metrics.roblox.com^$important
+||cs.ns1p.net^$important
 #Block Latency Measurement Service Endpoints
 ||lms.roblox.com^$important
 ||ams1-128-116-121-3.roblox.com^$important
